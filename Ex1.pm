@@ -3,7 +3,7 @@ use Bio::SeqIO;
 use Bio::Factory::EMBOSS;
 
 
-#$input_handler = Bio::SeqIO->new(-file => "$ARGV[0]", -format => 'genbank');
+#$input_handler = Bio::SeqIO->new(-file => $ARGV[0], -format => 'genbank');
 #$nucleotids = $input_handler->next_seq;
 #$aminoacids = $nucleotids->translate();
 
