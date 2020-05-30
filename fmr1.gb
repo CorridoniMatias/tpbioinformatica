@@ -1,0 +1,414 @@
+LOCUS       NM_002024               4441 bp    mRNA    linear   PRI 12-MAY-2020
+DEFINITION  Homo sapiens FMRP translational regulator 1 (FMR1), transcript
+            variant ISO1, mRNA.
+ACCESSION   NM_002024
+VERSION     NM_002024.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4441)
+  AUTHORS   Fu XG, Yan AZ, Xu YJ, Liao J, Guo XY, Zhang D, Yang WJ, Zheng DZ
+            and Lan FH.
+  TITLE     Splicing of exon 9a in FMR1 transcripts results in a truncated FMRP
+            with altered subcellular distribution
+  JOURNAL   Gene 731, 144359 (2020)
+   PUBMED   31935509
+  REMARK    GeneRIF: The inclusion of this microexon to generate exon
+            9a-containing transcripts may regulate the normal functionality of
+            FMRP, and the dysregulation of normal FMRP due to increased exon
+            9a-containing alternatively spliced transcripts in patients may be
+            associated with the manifestation of Fragile X syndrome phenotype.
+REFERENCE   2  (bases 1 to 4441)
+  AUTHORS   Sittler A, Devys D, Weber C and Mandel JL.
+  TITLE     Alternative splicing of exon 14 determines nuclear or cytoplasmic
+            localisation of fmr1 protein isoforms
+  JOURNAL   Hum. Mol. Genet. 5 (1), 95-102 (1996)
+   PUBMED   8789445
+REFERENCE   3  (bases 1 to 4441)
+  AUTHORS   Verkerk,A.J., de Graaff,E., De Boulle,K., Eichler,E.E.,
+            Konecki,D.S., Reyniers,E., Manca,A., Poustka,A., Willems,P.J.,
+            Nelson,D.L. et al.
+  TITLE     Alternative splicing in the fragile X gene FMR1
+  JOURNAL   Hum. Mol. Genet. 2 (8), 1348 (1993)
+   PUBMED   8401531
+  REMARK    Correction to:[Hum Mol Genet. 1993 Apr;2(4):399-404. PMID: 8504300]
+REFERENCE   4  (bases 1 to 4441)
+  AUTHORS   Ashley CT, Sutcliffe JS, Kunst CB, Leiner HA, Eichler EE, Nelson DL
+            and Warren ST.
+  TITLE     Human and murine FMR-1: alternative splicing and translational
+            initiation downstream of the CGG-repeat
+  JOURNAL   Nat. Genet. 4 (3), 244-251 (1993)
+   PUBMED   8358432
+REFERENCE   5  (bases 1 to 4441)
+  AUTHORS   Verkerk AJ, de Graaff E, De Boulle K, Eichler EE, Konecki DS,
+            Reyniers E, Manca A, Poustka A, Willems PJ, Nelson DL et al.
+  TITLE     Alternative splicing in the fragile X gene FMR1
+  JOURNAL   Hum. Mol. Genet. 2 (4), 399-404 (1993)
+   PUBMED   8504300
+  REMARK    Erratum:[Hum Mol Genet. 1993 Aug;2(8):1348. PMID: 8401531]
+REFERENCE   6  (bases 1 to 4441)
+  AUTHORS   Hunter,J.E., Berry-Kravis,E., Hipp,H. and Todd,P.K.
+  TITLE     FMR1 Disorders
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301558
+REFERENCE   7  (bases 1 to 4441)
+  AUTHORS   Laval SH, Blair HJ, Hirst MC, Davies KE and Boyd Y.
+  TITLE     Mapping of FMR1, the gene implicated in fragile X-linked mental
+            retardation, on the mouse X chromosome
+  JOURNAL   Genomics 12 (4), 818-821 (1992)
+   PUBMED   1572655
+REFERENCE   8  (bases 1 to 4441)
+  AUTHORS   Richards RI, Holman K, Kozman H, Kremer E, Lynch M, Pritchard M, Yu
+            S, Mulley J and Sutherland GR.
+  TITLE     Fragile X syndrome: genetic localisation by linkage mapping of two
+            microsatellite repeats FRAXAC1 and FRAXAC2 which immediately flank
+            the fragile site
+  JOURNAL   J. Med. Genet. 28 (12), 818-823 (1991)
+   PUBMED   1757956
+REFERENCE   9  (bases 1 to 4441)
+  AUTHORS   Verkerk AJ, Pieretti M, Sutcliffe JS, Fu YH, Kuhl DP, Pizzuti A,
+            Reiner O, Richards S, Victoria MF, Zhang FP et al.
+  TITLE     Identification of a gene (FMR-1) containing a CGG repeat coincident
+            with a breakpoint cluster region exhibiting length variation in
+            fragile X syndrome
+  JOURNAL   Cell 65 (5), 905-914 (1991)
+   PUBMED   1710175
+REFERENCE   10 (bases 1 to 4441)
+  AUTHORS   Mulligan,L.M., Phillips,M.A., Forster-Gibson,C.J., Beckett,J.,
+            Partington,M.W., Simpson,N.E., Holden,J.J. and White,B.N.
+  TITLE     Genetic mapping of DNA segments relative to the locus for the
+            fragile-X syndrome at Xq27.3
+  JOURNAL   Am. J. Hum. Genet. 37 (3), 463-472 (1985)
+   PUBMED   2988332
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from L29074.1 and KJ534837.1.
+            On Oct 24, 2019 this sequence version replaced NM_002024.5.
+            
+            Summary: The protein encoded by this gene binds RNA and is
+            associated with polysomes. The encoded protein may be involved in
+            mRNA trafficking from the nucleus to the cytoplasm. A trinucleotide
+            repeat (CGG) in the 5' UTR is normally found at 6-53 copies, but an
+            expansion to 55-230 repeats is the cause of fragile X syndrome.
+            Expansion of the trinucleotide repeat may also cause one form of
+            premature ovarian failure (POF1). Multiple alternatively spliced
+            transcript variants that encode different protein isoforms and
+            which are located in different cellular locations have been
+            described for this gene. [provided by RefSeq, May 2010].
+            
+            Transcript Variant: This variant (ISO1) represents the longest
+            transcript and it encodes the longest protein (isoform ISO1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: KJ534837.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000370475.9/ ENSP00000359506.5
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-261               L29074.1           13701-13961
+            262-552             KJ534837.1         1-291
+            553-553             L29074.1           30462-30462
+            554-2157            KJ534837.1         293-1896
+            2158-4441           L29074.1           50626-52909
+FEATURES             Location/Qualifiers
+     source          1..4441
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq27.3"
+     gene            1..4441
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="FMRP translational regulator 1"
+                     /db_xref="GeneID:2332"
+                     /db_xref="HGNC:HGNC:3775"
+                     /db_xref="MIM:309550"
+     exon            1..312
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    55..57
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="upstream in-frame stop codon"
+     CDS             262..2160
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="isoform ISO1 is encoded by transcript variant ISO1;
+                     fragile X mental retardation protein 1; synaptic
+                     functional regulator FMR1; truncated FMRP; fragile X
+                     mental retardation 1"
+                     /codon_start=1
+                     /product="synaptic functional regulator FMR1 isoform ISO1"
+                     /protein_id="NP_002015.1"
+                     /db_xref="CCDS:CCDS14682.1"
+                     /db_xref="GeneID:2332"
+                     /db_xref="HGNC:HGNC:3775"
+                     /db_xref="MIM:309550"
+                     /translation="MEELVVEVRGSNGAFYKAFVKDVHEDSITVAFENNWQPDRQIPF
+                     HDVRFPPPVGYNKDINESDEVEVYSRANEKEPCCWWLAKVRMIKGEFYVIEYAACDAT
+                     YNEIVTIERLRSVNPNKPATKDTFHKIKLDVPEDLRQMCAKEAAHKDFKKAVGAFSVT
+                     YDPENYQLVILSINEVTSKRAHMLIDMHFRSLRTKLSLIMRNEEASKQLESSRQLASR
+                     FHEQFIVREDLMGLAIGTHGANIQQARKVPGVTAIDLDEDTCTFHIYGEDQDAVKKAR
+                     SFLEFAEDVIQVPRNLVGKVIGKNGKLIQEIVDKSGVVRVRIEAENEKNVPQEEEIMP
+                     PNSLPSNNSRVGPNAPEEKKHLDIKENSTHFSQPNSTKVQRVLVASSVVAGESQKPEL
+                     KAWQGMVPFVFVGTKDSIANATVLLDYHLNYLKEVDQLRLERLQIDEQLRQIGASSRP
+                     PPNRTDKEKSYVTDDGQGMGRGSRPYRNRGHGRRGPGYTSGTNSEASNASETESDHRD
+                     ELSDWSLAPTEEERESFLRRGDGRRRGGGGRGQGGRGRGGGFKGNDDHSRTDNRPRNP
+                     REAKGRTTDGSLQIRVDCNNERSVHTKTLQNTSSEGSRLRTGKDRNQKKEKPDSVDGQ
+                     QPLVNGVP"
+     misc_feature    262..813
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Required for nuclear localization.
+                     /evidence=ECO:0000250|UniProtKB:P35922"
+     misc_feature    262..264
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0000244|PubMed:22814378; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); acetylation site"
+     misc_feature    775..894
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Necessary for interaction with CYFIP1, CYFIP2,
+                     FXR1 and FXR2. /evidence=ECO:0000250|UniProtKB:P35922,
+                     ECO:0000269|PubMed:14532325, ECO:0000269|PubMed:8668200"
+     misc_feature    1270..1272
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q80WE1; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); phosphorylation site"
+     misc_feature    1369..1371
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:20068231; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); phosphorylation site"
+     misc_feature    1450..1734
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Required for nuclear export.
+                     /evidence=ECO:0000269|PubMed:18936162,
+                     ECO:0000269|PubMed:8789445"
+     misc_feature    1516..2157
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Interaction with RANBP9.
+                     /evidence=ECO:0000269|PubMed:15381419"
+     misc_feature    1531..1590
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Nuclear export signal.
+                     /evidence=ECO:0000250|UniProtKB:P35922"
+     misc_feature    1648..1650
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P35922; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); phosphorylation site"
+     misc_feature    1672..1674
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P35922; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); methylation site"
+     misc_feature    1759..1761
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000244|PubMed:24275569,
+                     ECO:0000269|PubMed:12446764; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); phosphorylation site"
+     misc_feature    1840..1863
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Nucleolar localization signal 1.
+                     /evidence=ECO:0000269|PubMed:24658146"
+     misc_feature    1861..1905
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: RNA-binding RGG-box"
+     misc_feature    1891..1893
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000269|PubMed:16922515; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); methylation site"
+     misc_feature    2098..2112
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q06787.1);
+                     Region: Nucleolar localization signal 2.
+                     /evidence=ECO:0000269|PubMed:24658146"
+     misc_feature    2119..2121
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P35922; propagated from
+                     UniProtKB/Swiss-Prot (Q06787.1); phosphorylation site"
+     exon            313..365
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..459
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            460..531
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            532..680
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            681..774
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            775..891
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            892..1062
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1063..1141
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1142..1251
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1252..1386
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1387..1449
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1450..1536
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1537..1732
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1733..1915
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1916..1998
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1999..4441
+                     /gene="FMR1"
+                     /gene_synonym="FMRP; FRAXA; POF; POF1; POFX"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 ctcagtcagg cgctcagctc cgtttcggtt tcacttccgg tggagggccg cctctgagcg
+       61 ggcggcgggc cgacggcgag cgcgggcggc ggcggtgacg gaggcgccgc tgccaggggg
+      121 cgtgcggcag cgcggcggcg gcggcggcgg cggcggcggc ggaggcggcg gcggcggcgg
+      181 cggcggcggc ggctgggcct cgagcgcccg cagcccacct ctcgggggcg ggctcccggc
+      241 gctagcaggg ctgaagagaa gatggaggag ctggtggtgg aagtgcgggg ctccaatggc
+      301 gctttctaca aggcatttgt aaaggatgtt catgaagatt caataacagt tgcatttgaa
+      361 aacaactggc agcctgatag gcagattcca tttcatgatg tcagattccc acctcctgta
+      421 ggttataata aagatataaa tgaaagtgat gaagttgagg tgtattccag agcaaatgaa
+      481 aaagagcctt gctgttggtg gttagctaaa gtgaggatga taaagggtga gttttatgtg
+      541 atagaatatg cagcatgtga tgcaacttac aatgaaattg tcacaattga acgtctaaga
+      601 tctgttaatc ccaacaaacc tgccacaaaa gatactttcc ataagatcaa gctggatgtg
+      661 ccagaagact tacggcaaat gtgtgccaaa gaggcggcac ataaggattt taaaaaggca
+      721 gttggtgcct tttctgtaac ttatgatcca gaaaattatc agcttgtcat tttgtccatc
+      781 aatgaagtca cctcaaagcg agcacatatg ctgattgaca tgcactttcg gagtctgcgc
+      841 actaagttgt ctctgataat gagaaatgaa gaagctagta agcagctgga gagttcaagg
+      901 cagcttgcct cgagatttca tgaacagttt atcgtaagag aagatctgat gggtctagct
+      961 attggtactc atggtgctaa tattcagcaa gctagaaaag tacctggggt cactgctatt
+     1021 gatctagatg aagatacctg cacatttcat atttatggag aggatcagga tgcagtgaaa
+     1081 aaagctagaa gctttctcga atttgctgaa gatgtaatac aagttccaag gaacttagta
+     1141 ggcaaagtaa taggaaaaaa tggaaagctg attcaggaga ttgtggacaa gtcaggagtt
+     1201 gtgagggtga ggattgaggc tgaaaatgag aaaaatgttc cacaagaaga ggaaattatg
+     1261 ccaccaaatt cccttccttc caataattca agggttggac ctaatgcccc agaagaaaaa
+     1321 aaacatttag atataaagga aaacagcacc catttttctc aacctaacag tacaaaagtc
+     1381 cagagggtgt tagtggcttc atcagttgta gcaggggaat cccagaaacc tgaactcaag
+     1441 gcttggcagg gtatggtacc atttgttttt gtgggaacaa aggacagcat cgctaatgcc
+     1501 actgttcttt tggattatca cctgaactat ttaaaggaag tagaccagtt gcgtttggag
+     1561 agattacaaa ttgatgagca gttgcgacag attggagcta gttctagacc accaccaaat
+     1621 cgtacagata aggaaaaaag ctatgtgact gatgatggtc aaggaatggg tcgaggtagt
+     1681 agaccttaca gaaatagggg gcacggcaga cgcggtcctg gatatacttc aggaactaat
+     1741 tctgaagcat caaatgcttc tgaaacagaa tctgaccaca gagacgaact cagtgattgg
+     1801 tcattagctc caacagagga agagagggag agcttcctgc gcagaggaga cggacggcgg
+     1861 cgtggagggg gaggaagagg acaaggagga agaggacgtg gaggaggctt caaaggaaac
+     1921 gacgatcact cccgaacaga taatcgtcca cgtaatccaa gagaggctaa aggaagaaca
+     1981 acagatggat cccttcagat cagagttgac tgcaataatg aaaggagtgt ccacactaaa
+     2041 acattacaga atacctccag tgaaggtagt cggctgcgca cgggtaaaga tcgtaaccag
+     2101 aagaaagaga agccagacag cgtggatggt cagcaaccac tcgtgaatgg agtaccctaa
+     2161 actgcataat tctgaagtta tatttcctat accatttccg taattcttat tccatattag
+     2221 aaaactttgt taggccaaag acaaatagta ggcaagatgg cacagggcat gaaatgaaca
+     2281 caaattatgc taagaatttt ttattttttg gtattggcca taagcaacaa ttttcagatt
+     2341 tgcacaaaaa gataccttaa aatttgaaac attgctttta aaactactta gcacttcagg
+     2401 gcagatttta gttttatttt ctaaagtact gagcagtgat attctttgtt aatttggacc
+     2461 attttcctgc attgggtgat cattcaccag tacattctca gtttttctta atatatagca
+     2521 tttatggtaa tcatattaga cttctgtttt caatctcgta tagaagtctt catgaaatgc
+     2581 tatgtcattt catgtcctgt gtcagtttat gttttggtcc acttttccag tattttagtg
+     2641 gaccctgaaa tgtgtgtgat gtgacatttg tcattttcat tagcaaaaaa agttgtatga
+     2701 tctgtgcctt ttttatatct tggcaggtag gaatattata tttggatgca gagttcaggg
+     2761 aagataagtt ggaaacacta aatgttaaag atgtagcaaa ccctgtcaaa cattagtact
+     2821 ttatagaaga atgcatgctt tccatatttt tttccttaca taaacatcag gttaggcagt
+     2881 ataaagaata ggacttgttt ttgtttttgt tttgttgcac tgaagtttga taaatagtgt
+     2941 tattgagaga gatgtgtaat ttttctgtat agacaggaga agaaagaact atcttcatct
+     3001 gagagaggct aaaatgtttt cagctaggaa caaatcttcc tggtcgaaag ttagtaggat
+     3061 atgcctgctc tttggcctga tgaccaattt taacttagag cttttttttt ttaattttgt
+     3121 ctgccccaag ttttgtgaaa tttttcatat tttaatttca agcttatttt ggagagatag
+     3181 gaaggtcatt tccatgtatg cataataatc ctgcaaagta caggtacttt gtctaagaaa
+     3241 cattggaagc aggttaaatg ttttgtaaac tttgaaatat atggtctaat gtttaagcag
+     3301 aattggaaaa gactaagatc ggttaacaaa taacaacttt tttttctttt tttcttttgt
+     3361 tttttgaagt gttggggttt ggttttgttt tttgagtctt ttttttttaa gtgaaattta
+     3421 ttgaggaaaa atatgtgaag gaccttcact ctaagatgtt atatttttct taaaaagtaa
+     3481 ctcctagtag gggtaccact gaatctgtac agagccgtaa aaactgaagt tctgcctctg
+     3541 atgtattttg tgagtttgtt tctttgaatt ttcattttac agttactttt ccttgcatac
+     3601 aaacaagcat ataaaatggc aacaaactgc acatgatttc acaaatatta aaaagtcttt
+     3661 taaaaagtat tgccaaacat taatgttgat ttctagttat ttattctggg aatgtatagt
+     3721 atttgaaaac agaaattggt accttgcaca catcatctgt aagctgtttg gttttaaaat
+     3781 actgtagata attaaccaag gtagaatgac cttgtaatgt aactgctctt gggcaatatt
+     3841 ctctgtacat attagcgaca acagattgga ttttatgttg acatttgttt ggttatagtg
+     3901 caatatattt tgtatgcaag cagtttcaat aaagtttgat cttcctctgc taaattgatg
+     3961 ttgatgcaat ccttacaaat gattgctttt aaaattttaa gctaggaaaa gaaatctata
+     4021 gaaagtgttc tgttacaaaa tgtaactgtt accattggaa atttcacgtc ataggaagtt
+     4081 agcctttatc taccaacttt caagaacttg tttaataaag cgaaaaactc aaccaaatgg
+     4141 tacaaaacca cagtgtacca ttaaaatatg cactaagtct cttttttaca aaggctgtat
+     4201 tcagcaaggc gctaacttgc ttaaatgtga attactaact tctaaaactg tactttgatt
+     4261 cacatgtttt caaatggagt tggagttcat tcatattaca atatttgtgt gctaaacgtg
+     4321 tatgtttttc agttcaaagt catgatgttt ttaaaatctt attaaagttt caaaaatctg
+     4381 aagattgttt atctagatgt aaatttttat taaaaagttg cacttatgaa aaagcaaaaa
+     4441 a
+//
+

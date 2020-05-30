@@ -1,0 +1,34 @@
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence format is Pearson
+Sequence 1: sp|Q06787.1|FMR1_HUMAN   632 aa
+Sequence 2: sp|P35922.1|FMR1_MOUSE   614 aa
+Sequence 3: sp|Q5R9B4.1|FMR1_PONAB   594 aa
+Sequence 4: sp|Q6GLC9.1|FMR1_XENTR   590 aa
+Start of Pairwise alignments
+Aligning...
+
+Sequences (1:2) Aligned. Score:  96
+Sequences (1:3) Aligned. Score:  99
+Sequences (1:4) Aligned. Score:  84
+Sequences (2:3) Aligned. Score:  96
+Sequences (2:4) Aligned. Score:  81
+Sequences (3:4) Aligned. Score:  81
+Guide tree file created:   [/tmp/TZvLuHFYxx/oSLhooo5nH.dnd]
+
+There are 3 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1: Sequences:   2      Score:9533
+Group 2: Sequences:   3      Score:9771
+Group 3: Sequences:   4      Score:8198
+Alignment Score 19883
+
+GCG-Alignment file created      [/tmp/TZvLuHFYxx/jefaTfygEO]
+
+Bio::SimpleAlign=HASH(0x55682b32c030)
